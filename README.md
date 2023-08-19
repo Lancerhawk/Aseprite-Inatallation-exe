@@ -1,0 +1,1 @@
+# Aseprite-Inatallation-exe
